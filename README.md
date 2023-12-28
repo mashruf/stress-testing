@@ -12,3 +12,7 @@ This is a random API from where we can get the list of the users. No error were 
 ``` https://github.com/mashruf/stress-testing ```
 - In the source root project, give the following command:
 ``` jmeter -n -t stress-test.jmx -l stress-test.csv -e -o report ```
+
+![stress test](https://github.com/mashruf/stress-testing/assets/50927464/f176e2a2-64d9-4d67-a1ff-5902b131811d)
+
+![Capture](https://github.com/mashruf/stress-testing/assets/50927464/9eb030ae-b3f7-4723-a71e-15341e711381)
